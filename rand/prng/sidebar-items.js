@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["chacha","The ChaCha random number generator."],["hc128","The HC-128 random number generator."]]});
